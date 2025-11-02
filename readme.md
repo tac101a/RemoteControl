@@ -76,8 +76,7 @@ java -cp client/src client
 
 ## 🎬 Demo Video
 
-🎥 **Demo Video (Google Drive or YouTube)**  
-👉 _You can watch the full demo directly below:_
+🎥 **Demo Video (Google Drive or YouTube)**
 
 - [🔗 View in Google Drive](https://drive.google.com/drive/folders/19tJ0aabBa1-whbwIIW_lxe0Q0UPr2r5j?usp=drive_link)
 
@@ -85,6 +84,6 @@ java -cp client/src client
 
 ## 📄 Report
 
-📘 **Project Report (PDF)** — Click to view or read inline below
+📘 **Project Report (PDF)**
 
 - [🔗 View in Google Drive](https://drive.google.com/drive/folders/1AfH1vzrIRBiWy_Q0PsqRDVOTqRrad0Nz?usp=drive_link)
